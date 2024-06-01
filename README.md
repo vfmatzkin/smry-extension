@@ -9,6 +9,8 @@ This Chrome extension allows users to open any link through the SMRY.AI website 
 - Adds a context menu item for links: "Open with SMRY.AI"
 - Opens the selected link through the SMRY.AI proxy in a new tab
 
+![image](https://github.com/vfmatzkin/smry-extension/assets/28831634/d6138c39-3021-43af-83b4-8a9dbec3accd)
+
 ## Installation
 
 To install this extension, follow these steps:
